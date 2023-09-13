@@ -1,4 +1,6 @@
 # <center> Hello 👋, moi c'est **Raphaël Chiche** </center>
+
+Bonjour, je suis Raphaël Chiche et je suis actuellement en deuxième année à l'IIM dans l'axe coding & digitale innovation. Avant de rentrer dans l'IIM, j'ai passé un bac avec les spécialités NSI ( Numérique et Science Informatique) et SI ( Sciences de l'ingénieur). Mon objectif est d'être un bon développeur web !
 ## Je suis actuellement en deuxième année à l'*IIM*
 * ### 🌐 Les languages que je connais principalement sont :
 
@@ -33,7 +35,7 @@
  Comme l'a dit Cory House : 
  > Code is like humor. When you have to explain it, it's bad.
 
- >Le code, c'est comme l'humour. Lorsqu'il faut l'expliquer, c'est mauvais
+ >Le code, c'est comme l'humour. Lorsqu'il faut l'expliquer, c'est mauvais.
 
  Mais plus sérieusement, __Robert C. Martin__ a dit :
 
