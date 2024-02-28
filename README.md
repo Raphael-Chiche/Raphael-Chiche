@@ -1,6 +1,6 @@
 # <center> Hello 👋, moi c'est **Raphaël Chiche** </center>
 
-Bonjour, je suis Raphaël Chiche et je suis actuellement en deuxième année à l'IIM dans l'axe coding & digitale innovation. Avant de rentrer dans l'IIM, j'ai passé un bac avec les spécialités NSI ( Numérique et Science Informatique) et SI ( Sciences de l'ingénieur). Mon objectif est d'être un bon développeur web !
+Bonjour, je suis Raphaël Chiche et je suis actuellement en deuxième année à l'IIM dans l'axe coding & digitale innovation. Avant de rentrer dans l'IIM, j'ai passé un bac avec les spécialités NSI ( Numérique et Science Informatique) et SI ( Sciences de l'ingénieur). Mon objectif est de devenir développeur FullStack !
 ## Je suis actuellement en deuxième année à l'*IIM*
 * ### 🌐 Les languages que je connais principalement sont :
 
@@ -20,7 +20,7 @@ Bonjour, je suis Raphaël Chiche et je suis actuellement en deuxième année à 
 
 
 
-* 🔧 Portfolio en cours de création...
+* 🔧 Voici mon portfolio : [Mon portfolio](https://chicheraphael.vercel.app/)
 
 * ✉️ Contactez-moi sur raphael.ch2004@gmail.com
 * 📄 A propos de moi:
@@ -29,21 +29,6 @@ Bonjour, je suis Raphaël Chiche et je suis actuellement en deuxième année à 
     * 💡 Apprendre de nouvelles choses
 ## Ajoutez-moi sur [Likedln](https://www.linkedin.com/in/chicheraphael/) :
  [![tedf](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/chicheraphael/)
-
----
-
- Comme l'a dit Cory House : 
- > Code is like humor. When you have to explain it, it's bad.
-
- >Le code, c'est comme l'humour. Lorsqu'il faut l'expliquer, c'est mauvais.
-
- Mais plus sérieusement, __Robert C. Martin__ a dit :
-
- > Clean code always looks like it was written by __someone who cares__.
-
- > Un code propre donne toujours l'impression d'avoir été écrit par __quelqu'un qui s'en préoccupe__.
-
----
 
 ### Les langages que j'utilise le plus :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Chiche&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
@@ -55,12 +40,3 @@ Bonjour, je suis Raphaël Chiche et je suis actuellement en deuxième année à 
 ![Python Logo](	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python Logo](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-
----
-## Todo list : 
-
-- [x] Commencer mon portfolio
-- [ ] Finir mon portfolio
-- [ ] Remettre en ordre mon GitHub
-- [ ] Apprendre un nouveau langage
-- [x] S'amuser
